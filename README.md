@@ -16,6 +16,8 @@ The script parses genome files in FASTA format, extracting sequences, gene names
 - Common Lizard
 - Common Frog
 
+#### To download the genome files download the Species Genomes.zip and extract it for all the data in .fna format.
+
 ### Combining and Analyzing Data
 
 All species-specific dataframes are combined into a single dataframe for comprehensive analysis. The combined dataframe is used to compare the sequence lengths across different species and to analyze the frequency of various trimers (3-mer sequences).

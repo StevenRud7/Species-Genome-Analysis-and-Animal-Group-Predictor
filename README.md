@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs species genome analysis and group prediction using genome sequences from various species. The analysis includes extracting DNA sequences, gene names, and protein descriptions, and comparing genomic information across species. It also involves predicting the species of unknown genomes using machine learning techniques.
+This project performs species genome analysis and animal group prediction using genome sequences from various species. The analysis includes extracting DNA sequences, gene names, and protein descriptions, and comparing genomic information across species. It also involves predicting the species of unknown genomes using machine learning techniques.
 
 ## Functionality
 
